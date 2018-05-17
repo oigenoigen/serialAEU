@@ -1,6 +1,7 @@
 import win32api
 import win32con
 import time
+print("FuckinggitIcannotgethowtoworkhere")
 args = "34546546.345.345"
 for i in args:
     if i==".":
